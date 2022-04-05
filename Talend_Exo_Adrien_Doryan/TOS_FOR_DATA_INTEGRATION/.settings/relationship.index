@@ -1,0 +1,43 @@
+[ {
+  "baseItem" : {
+    "id" : "_B2leQLS8Eey2Ms94m1HV2g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_T9WPULS8Eey2Ms94m1HV2g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_drCcoLS8Eey2Ms94m1HV2g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "replace_M",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_T9WPULS8Eey2Ms94m1HV2g - departements_metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_drCcoLS8Eey2Ms94m1HV2g - marketing_metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kEwfULTeEeyM6IEYf2zx-A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TOS_FOR_DATA_INTEGRATION:_B2leQLS8Eey2Ms94m1HV2g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "TOS_FOR_DATA_INTEGRATION:_QagiQLTeEeyM6IEYf2zx-A",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]
