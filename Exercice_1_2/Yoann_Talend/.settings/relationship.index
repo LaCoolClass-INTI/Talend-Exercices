@@ -1,0 +1,47 @@
+[ {
+  "baseItem" : {
+    "id" : "_3LlwoLS6EeyWlo40BjfUdQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_c9jhALS7EeyWlo40BjfUdQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_i5lakLS7EeyWlo40BjfUdQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "AjouterM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_c9jhALS7EeyWlo40BjfUdQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_i5lakLS7EeyWlo40BjfUdQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EN3bsLTdEeyWlo40BjfUdQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "ATELIER_FORMATION:_3LlwoLS6EeyWlo40BjfUdQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ATELIER_FORMATION:_DEbOwLTaEeyWlo40BjfUdQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]

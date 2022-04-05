@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_i5mBoLS7EeyWlo40BjfUdQ" name="Departement" dataPackage="_i5mBobS7EeyWlo40BjfUdQ" Server="Localhost 127.0.0.1" FilePath="D:/Exercice1-talend/departements2.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_i5mBobS7EeyWlo40BjfUdQ" name="default" dataManager="_i5mBoLS7EeyWlo40BjfUdQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_i5mBorS7EeyWlo40BjfUdQ" id="_eJnEcLS7EeyWlo40BjfUdQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_i5mBo7S7EeyWlo40BjfUdQ" label="Num_dept" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_i5mBpLS7EeyWlo40BjfUdQ" label="Nom_dept" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_i5mBpbS7EeyWlo40BjfUdQ" label="Population" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
